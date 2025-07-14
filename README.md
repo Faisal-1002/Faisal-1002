@@ -30,12 +30,15 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🧩 Code Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faisalghamdi&show_icons=true&theme=github_dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalghamdi&layout=compact&theme=github_dark" height="180"/>
-</p>
+I focus on writing **clean**, **scalable**, and **secure** backend systems using Java and Spring Boot.  
+Each project is built with real-world structure: layered architecture, tested endpoints, and RESTful design.
+
+- 🧱 Strong grasp of **Object-Oriented Principles**
+- 🔐 Built with **security and role-based access control**
+- 🔁 Optimized with **reusable service layers and modular design**
+- 🧪 Focused on **testability, readability, and maintainability**
 
 ---
 
