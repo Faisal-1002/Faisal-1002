@@ -9,11 +9,11 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, SQL, JavaScript
-- **Frameworks**: Spring Boot, JPA, Spring Security, Thymeleaf
-- **Database**: MySQL, PostgreSQL
-- **Tools**: Postman, GitHub, Docker, AWS
-- **Other**: JWT Auth, REST APIs, CI/CD basics, Object-Oriented Design
+- **Languages**: Java, Python, SQL, JavaScript
+- **Frameworks**: Spring Boot, React.js
+- **Database**: MySQL, MongoDB
+- **Tools**: Postman, GitHub, AWS, IDEs
+- **Other**: JWT Auth, REST APIs, Object-Oriented Design
 
 ---
 
@@ -22,10 +22,10 @@
 - 🏟️ **Tashkelah**  
   Sports facility booking platform — supports public & private matches, organizer roles, and payment integration.
 
-- ♻️ **RecycleEase (Capstone 03)**  
+- ♻️ **EcoCycle**  
   Community-driven waste management app — multi-role flow with real-time updates and notifications.
 
-- 💻 **Lab & Concept Repos**  
+- 💻 **Tuwaiq-Problem-Solving**  
   Covering Java OOP, exception handling, design patterns (Builder, Singleton, Factory), and multithreading.
 
 ---
@@ -39,11 +39,10 @@
 
 ---
 
-## 🔗 Connect
+<h3 align="center">🔗 Connect with me</h3>
 
-- 📫 [LinkedIn](https://www.linkedin.com/in/faisalghamdi)
-- 🧠 Ask me about: backend logic, Spring architecture, and scaling real-world apps.
-
----
-
-*“Keep it clean, make it scale.”*
+<p align="center">
+  <a href="https://www.linkedin.com/in/faisalghamdi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+</p>
