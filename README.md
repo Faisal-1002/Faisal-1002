@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Faisal 👨‍💻</h1>
 
 <p align="center">
-  <b>Senior Software Engineer | Java & Spring | API Security | AI Agents</b><br>
+  <b>Senior Software Engineer | Backend & API Engineering | API Security | AI Agents</b><br>
   Building scalable, secure, and high-performance enterprise systems.
 </p>
 
