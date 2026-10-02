@@ -32,10 +32,10 @@
 <h3 align="center">🔗 Connect with me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/-faisal-al-ghamdi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/-faisal-al-ghamdi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Faisal_Alghamdi-0A66C2?style=for-the-badge" alt="LinkedIn: Faisal Alghamdi"/>
   </a>
   <a href="mailto:faisal.a.m.2012@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-faisal.a.m.2012@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: faisal.a.m.2012@gmail.com"/>
   </a>
 </p>
