@@ -29,19 +29,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🤖 **[AI Agent](https://github.com/Faisal-1002/seyl-ai)**  
-  AI agent on open LLMs (Qwen3.5/Ollama) with agentic RAG over MCP, guardrails, and Keycloak (OIDC + PKCE), behind a LiteLLM gateway portable to Amazon Bedrock; deployed on Docker/Kubernetes.
-
-- 🏟️ **[Tashkelah](https://github.com/Faisal-1002/Tashkelah)**  
-  Sports facility booking platform with public & private matches, organizer roles, and payment integration.
-
-- ♻️ **[EcoCycle](https://github.com/Faisal-1002/EcoCycle)**  
-  Community-driven waste management app with a multi-role flow, real-time updates, and notifications.
-
----
-
 <h3 align="center">🔗 Connect with me</h3>
 
 <p align="center">
