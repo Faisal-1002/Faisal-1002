@@ -32,7 +32,7 @@
 <h3 align="center">🔗 Connect with me</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/-faisal-al-ghamdi/" target="_blank">
+  <a href="https://www.linkedin.com/in/-faisal-alghamdi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Faisal_Alghamdi-0A66C2?style=for-the-badge" alt="LinkedIn: Faisal Alghamdi"/>
   </a>
   <a href="mailto:faisal.a.m.2012@gmail.com">
