@@ -13,7 +13,7 @@
 - 🔐 Led the end-to-end integration of **Nafath** into Absher for national digital-identity authentication.
 - 🧭 Responsible for **session management** across the entire Absher platform.
 - 🤖 Building **AI agents** (RAG, MCP, LLM guardrails) and using **Claude Code** and **Codex** in my daily workflow.
-- 🎓 B.Sc. in Software Engineering, **KFUPM** ·
+- 🎓 B.Sc. in Software Engineering, **KFUPM**.
 - ☕ Oracle Certified Associate, Java SE 8.
 
 ---
